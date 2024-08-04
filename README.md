@@ -24,7 +24,7 @@ pip install tensorflow opencv-python-headless streamlit numpy
 ## Project Structure
 - sheet_count_app.py: Streamlit application for sheet counting.
 - sheet_count_model_1.keras/: Directory where the trained model file should be stored.
-- automated_sheet_counter.ipyn/: Directory containing Jupyter Notebooks for model training.
+- automated_sheet_counter.ipynb/: Directory containing Jupyter Notebooks for model training.
 
 ## Setting Up the Environment
 
