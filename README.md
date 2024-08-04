@@ -31,15 +31,17 @@ pip install tensorflow opencv-python-headless streamlit numpy
 1. Clone the Repository
 
    If you haven’t already, clone the repository:
-   git clone <repository-url>
-   cd <repository-folder>
 
-2. Place the Trained Model
+      git clone https://github.com/thivakaran-mnm/Automated-Sheet-Counter.git
+
+      cd Automated-Sheet-Counter
+
+3. Place the Trained Model
 
    Ensure you have the trained model file saved as sheet_count_model_1.keras. Place this file in the trained_model/ directory. If the 
    directory doesn’t exist, create it:
 
-   mkdir trained_model
+      mkdir trained_model
 
    Move your model file into this directory.
 
